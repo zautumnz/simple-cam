@@ -3,9 +3,7 @@
   "description": "Very simple webcam viewer for desktop.",
   "version": "3.0.1",
   "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "http://zacanger.com"
+    "name": "autumnz"
   },
   "license": "LGPL-3.0",
   "main": "app.js",
@@ -16,12 +14,12 @@
   "scripts": {
     "start": "node index"
   },
-  "homepage": "https://github.com/zacanger/simple-cam#readme",
+  "homepage": "https://github.com/zautumnz/simple-cam#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/simple-cam.git"
+    "url": "https://github.com/zautumnz/simple-cam.git"
   },
-  "bugs": "https://github.com/zacanger/simple-cam/issues",
+  "bugs": "https://github.com/zautumnz/simple-cam/issues",
   "keywords": [
     "cam",
     "camera",
